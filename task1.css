@@ -1,0 +1,19 @@
+#div1{
+    border: 2px solid blue;
+    background-color: cornflowerblue;
+    box-shadow: 5px 5px 5px cyan;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 200px;
+    width:200px;
+    height: 30px;
+    text-align: center;
+}
+
+#div1:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+#div1:active{
+    background-color: chartreuse;
+}
